@@ -9,4 +9,7 @@ $ npm install -g cleaver
 $ git checkout https://github.com/vise890/pairing.presentation
 $ cd pairing.presentation
 $ cleaver pairing.md
+
+# to rebuild the presentation on file change
+$ cleaver watch pairing.md
 ```
