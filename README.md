@@ -10,6 +10,9 @@ $ git checkout https://github.com/vise890/pairing.presentation
 $ cd pairing.presentation
 $ cleaver pairing.md
 
+# open it up in a browser
+$ firefox pairing-cleaver.html
+
 # to rebuild the presentation on file change
 $ cleaver watch pairing.md
 ```
