@@ -1,4 +1,4 @@
-title: "Pair Programming: DOs and DON'Ts"
+title: "Pairing Fundamentals: DOs and DON'Ts"
 author:
   name: Martino Visintin
   email: mvisinti@thoughtworks.com
@@ -67,9 +67,15 @@ NON ha la tastiera, NON scrive, parla ed ascolta.
 - Ascoltate l'altra persona
 - Siate pazienti
 - Rispettatevi a vicenda
-- Scambiatevi di ruolo regolarmente (ogni 30 minuti?)
-- Fate pause regolari (ogni ora?)
 - Lavatevi! (non è bello lavorare con i puzzoni..)
+
+--
+### Tempistiche:
+- Scambiatevi di ruolo regolarmente (ogni 30 minuti?)
+- Fermatevi. Fate pause regolari (ogni ora?)
+
+Di solito ci si cambia compagno/a di pair regolarmente.
+Ricordati che se ti stai stancando o ci sono problemi, rendilo noto.
 
 --
 ### Cose da NON fare:
